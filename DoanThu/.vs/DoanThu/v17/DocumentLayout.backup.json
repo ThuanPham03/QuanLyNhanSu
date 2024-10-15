@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ngoc Thuan\\source\\repos\\DoanThu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD18CD5-D66B-4C48-87BA-DA7D5F27C565}|DoanThu\\DoanThu.csproj|c:\\users\\ngoc thuan\\source\\repos\\doanthu\\doanthu\\tuyendung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD18CD5-D66B-4C48-87BA-DA7D5F27C565}|DoanThu\\DoanThu.csproj|solutionrelative:doanthu\\tuyendung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD18CD5-D66B-4C48-87BA-DA7D5F27C565}|DoanThu\\DoanThu.csproj|c:\\users\\ngoc thuan\\source\\repos\\doanthu\\doanthu\\tuyendung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD18CD5-D66B-4C48-87BA-DA7D5F27C565}|DoanThu\\DoanThu.csproj|solutionrelative:doanthu\\tuyendung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD18CD5-D66B-4C48-87BA-DA7D5F27C565}|DoanThu\\DoanThu.csproj|c:\\users\\ngoc thuan\\source\\repos\\doanthu\\doanthu\\luong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD18CD5-D66B-4C48-87BA-DA7D5F27C565}|DoanThu\\DoanThu.csproj|solutionrelative:doanthu\\luong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD18CD5-D66B-4C48-87BA-DA7D5F27C565}|DoanThu\\DoanThu.csproj|c:\\users\\ngoc thuan\\source\\repos\\doanthu\\doanthu\\luong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD18CD5-D66B-4C48-87BA-DA7D5F27C565}|DoanThu\\DoanThu.csproj|solutionrelative:doanthu\\luong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD18CD5-D66B-4C48-87BA-DA7D5F27C565}|DoanThu\\DoanThu.csproj|C:\\Users\\Ngoc Thuan\\source\\repos\\DoanThu\\doanthu\\luong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1AD18CD5-D66B-4C48-87BA-DA7D5F27C565}|DoanThu\\DoanThu.csproj|solutionrelative:doanthu\\luong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD18CD5-D66B-4C48-87BA-DA7D5F27C565}|DoanThu\\DoanThu.csproj|c:\\users\\ngoc thuan\\source\\repos\\doanthu\\doanthu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD18CD5-D66B-4C48-87BA-DA7D5F27C565}|DoanThu\\DoanThu.csproj|solutionrelative:doanthu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Luong.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thuan\\source\\repos\\DoanThu\\DoanThu\\Luong.cs",
+              "RelativeDocumentMoniker": "DoanThu\\Luong.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thuan\\source\\repos\\DoanThu\\DoanThu\\Luong.cs",
+              "RelativeToolTip": "DoanThu\\Luong.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:54:20.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Luong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thuan\\source\\repos\\DoanThu\\DoanThu\\Luong.cs",
+              "RelativeDocumentMoniker": "DoanThu\\Luong.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thuan\\source\\repos\\DoanThu\\DoanThu\\Luong.cs [Design]",
+              "RelativeToolTip": "DoanThu\\Luong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:35:00.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Luong.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thuan\\source\\repos\\DoanThu\\DoanThu\\Luong.Designer.cs",
+              "RelativeDocumentMoniker": "DoanThu\\Luong.Designer.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thuan\\source\\repos\\DoanThu\\DoanThu\\Luong.Designer.cs",
+              "RelativeToolTip": "DoanThu\\Luong.Designer.cs",
+              "ViewState": "AgIAAC4BAAAAAAAAAAAqwDsBAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:34:25.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TuyenDung.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thuan\\source\\repos\\DoanThu\\DoanThu\\TuyenDung.cs",
+              "RelativeDocumentMoniker": "DoanThu\\TuyenDung.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thuan\\source\\repos\\DoanThu\\DoanThu\\TuyenDung.cs [Design]",
+              "RelativeToolTip": "DoanThu\\TuyenDung.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T12:04:17.958Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thuan\\source\\repos\\DoanThu\\DoanThu\\Program.cs",
+              "RelativeDocumentMoniker": "DoanThu\\Program.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thuan\\source\\repos\\DoanThu\\DoanThu\\Program.cs",
+              "RelativeToolTip": "DoanThu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T07:54:45.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TuyenDung.cs",
+              "DocumentMoniker": "C:\\Users\\Ngoc Thuan\\source\\repos\\DoanThu\\DoanThu\\TuyenDung.cs",
+              "RelativeDocumentMoniker": "DoanThu\\TuyenDung.cs",
+              "ToolTip": "C:\\Users\\Ngoc Thuan\\source\\repos\\DoanThu\\DoanThu\\TuyenDung.cs",
+              "RelativeToolTip": "DoanThu\\TuyenDung.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T06:50:36.601Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
